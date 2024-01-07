@@ -28,6 +28,8 @@ import NotesList from "./components/NotesList";
 const App = () => {
   return (<div className="container"> 
   <NotesList/>
+  <NotesList/>
+  <NotesList/>
   </div>);
 };
 
